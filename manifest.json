@@ -1,0 +1,18 @@
+{
+  "appID": "a559fa8a851f4dbcb6156e723f5aa640",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v2.0.11",
+    "devkit-geolocation": "https://github.com/gameclosure/geoloc#v2.0.0"
+  },
+  "shortName": "demoGeoLocation",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "demoGeoLocation"
+}
